@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Membuat requirement",
+    "description": "Menyusun kebutuhan sistem",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Rina"
+  },
+  {
+    "id": 2,
+    "title": "Membuat desain UI",
+    "description": "Membuat wireframe",
+    "status": "in_progress",
+    "priority": "medium",
+    "assignee": "Budi"
+  }
+]
